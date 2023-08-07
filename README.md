@@ -1,2 +1,2 @@
 # artistPortfolioProject
-Cold CSS learning project
+Colt: CSS learning project

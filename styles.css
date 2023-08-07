@@ -1,0 +1,79 @@
+body {
+    font-family: Cormorant, serif;
+    background-color: whitesmoke;
+}
+
+.navbar {
+    margin: 32px;
+}
+
+header h1 {
+    margin: 0px;
+    font-weight: 300;
+    display: inline-block;
+    margin-right: 32px;
+}
+
+header nav {
+    display: inline-block;
+}
+
+header li {
+    display: inline-block;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 0 8px;
+    padding: 0px;
+}
+
+nav ul {
+    padding: 0px
+}
+
+a.active {
+    border-bottom: 1px solid black;
+}
+
+.card img {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card {
+    display: inline-block;
+    width: 49.75%;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+h2 {
+    display: inline-block;
+    margin-top: 8px 0 16px 0;
+}
+
+.gallery {
+    padding: 16px;
+}
+
+.about {
+    width: 50%;
+    margin: 100px;
+}
+
+.about .aboutText {
+    width: 70%;
+    font-size: 36px;
+}
+
+.about .invite {
+    border-bottom: 1px solid black;
+    margin-top: 0;
+    padding: 10px;
+    font-size: 36px;
+    display: inline-block;
+}
